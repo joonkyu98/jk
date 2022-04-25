@@ -1,0 +1,4 @@
+tips=read.csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv')
+str(tips)
+head(tips,10)
+summary(tips)
